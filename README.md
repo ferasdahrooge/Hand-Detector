@@ -27,6 +27,10 @@ And then Run Code Starting with
 
 ### for Hand Detection
 
-A screenshot Demonstrating the hand Detection
+A screenshot Demonstrating the hand Detection without Labelling
 
-![HandDetected](<Output\ Images/hand-detector.jpg>)
+![HandDetected](./Output%20Images/hand-detector.jpg)
+
+As for hand detection with Labelling
+
+![HandLabelling](./Output%20Images/Hand-Labels.jpg)
