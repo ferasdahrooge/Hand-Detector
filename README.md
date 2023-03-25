@@ -25,4 +25,8 @@ And then Run Code Starting with
 `mp_drawing = mp.solutions.drawing_utils`
 `mp_hands = mp.solutions.hands`
 
-for Hand Detection
+### for Hand Detection
+
+A screenshot Demonstrating the hand Detection
+
+![HandDetected](<Output\ Images/hand-detector.jpg>)
